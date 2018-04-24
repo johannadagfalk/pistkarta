@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
@@ -8,3 +9,14 @@ dependencies: \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h
+=======
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGLayout.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/ReactCommon/yoga/yoga/YGStyle.h
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538

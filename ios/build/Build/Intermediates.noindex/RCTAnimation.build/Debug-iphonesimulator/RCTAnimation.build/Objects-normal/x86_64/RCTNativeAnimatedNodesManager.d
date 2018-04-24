@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
@@ -42,3 +43,7 @@ dependencies: \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
+=======
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538

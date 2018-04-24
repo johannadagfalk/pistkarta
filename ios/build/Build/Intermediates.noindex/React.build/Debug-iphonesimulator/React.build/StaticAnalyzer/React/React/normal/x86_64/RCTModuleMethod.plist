@@ -6,7 +6,11 @@
 <string>Apple LLVM version 9.0.0 (clang-900.0.39.2)</string>
  <key>files</key>
  <array>
+<<<<<<< HEAD
   <string>/Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTModuleMethod.mm</string>
+=======
+  <string>/Users/Johanna/RN/pistkarta/node_modules/react-native/React/Base/RCTModuleMethod.mm</string>
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538
  </array>
  <key>diagnostics</key>
  <array>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Yoga.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGStyle.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNode.o
@@ -5,3 +6,12 @@
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Utils.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGLayout.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNodePrint.o
+=======
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Yoga.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGStyle.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNode.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGEnums.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Utils.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGLayout.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNodePrint.o
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSBigString.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSIndexedRAMBundle.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/ModuleRegistry.o
@@ -16,3 +17,23 @@
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/NativeToJsBridge.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCNativeModules.o
 /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/SampleCxxModule.o
+=======
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSBigString.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSIndexedRAMBundle.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/ModuleRegistry.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/RAMBundleRegistry.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/CxxNativeModule.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCExecutor.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCLegacyTracing.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCPerfStats.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSBundleType.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCUtils.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCSamplingProfiler.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCMemory.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/MethodCall.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/Platform.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/Instance.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/NativeToJsBridge.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSCNativeModules.o
+/Users/Johanna/RN/pistkarta/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/SampleCxxModule.o
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538

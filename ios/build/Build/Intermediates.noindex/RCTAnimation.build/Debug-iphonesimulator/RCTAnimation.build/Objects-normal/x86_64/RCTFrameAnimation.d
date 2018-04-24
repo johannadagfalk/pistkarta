@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
@@ -18,3 +19,8 @@ dependencies: \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+=======
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538

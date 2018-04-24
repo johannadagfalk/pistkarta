@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
@@ -21,3 +22,9 @@ dependencies: \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h
+=======
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Users/Johanna/RN/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/Johanna/RN/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538

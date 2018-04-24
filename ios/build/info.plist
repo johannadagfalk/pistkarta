@@ -3,8 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
+<<<<<<< HEAD
 	<date>2018-04-24T13:24:11Z</date>
 	<key>WorkspacePath</key>
 	<string>/Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/MapExample.xcworkspace</string>
+=======
+	<date>2018-04-24T12:52:24Z</date>
+	<key>WorkspacePath</key>
+	<string>/Users/Johanna/RN/pistkarta/ios/MapExample.xcworkspace</string>
+>>>>>>> 697cc1811f141eac4d85099e833742e8d5fb5538
 </dict>
 </plist>

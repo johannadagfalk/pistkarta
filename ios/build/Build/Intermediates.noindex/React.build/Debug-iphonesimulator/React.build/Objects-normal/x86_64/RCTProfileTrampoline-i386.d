@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Profiler/RCTProfileTrampoline-i386.S \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Profiler/RCTMacros.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Profiler/RCTProfileTrampoline-i386.S \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Profiler/RCTMacros.h

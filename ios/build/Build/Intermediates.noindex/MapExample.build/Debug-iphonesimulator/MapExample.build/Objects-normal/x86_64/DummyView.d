@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/ios/AirGoogleMaps/DummyView.m \
-  /Users/Johanna/RN/prod/MapExample/ios/AirGoogleMaps/DummyView.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/AirGoogleMaps/DummyView.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/AirGoogleMaps/DummyView.h

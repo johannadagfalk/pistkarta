@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h

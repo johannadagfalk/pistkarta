@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Modules/RCTI18nUtil.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Modules/RCTI18nUtil.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Modules/RCTI18nUtil.h

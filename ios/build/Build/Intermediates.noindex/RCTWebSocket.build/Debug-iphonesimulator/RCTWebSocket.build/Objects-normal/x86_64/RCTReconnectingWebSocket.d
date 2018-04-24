@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/fishhook/fishhook.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/fishhook/fishhook.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

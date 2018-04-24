@@ -1,2 +1,3 @@
-dependencies: /Users/Johanna/RN/prod/MapExample/ios/MapExample/main.m \
-  /Users/Johanna/RN/prod/MapExample/ios/MapExample/AppDelegate.h
+dependencies: \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/MapExample/main.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/MapExample/AppDelegate.h

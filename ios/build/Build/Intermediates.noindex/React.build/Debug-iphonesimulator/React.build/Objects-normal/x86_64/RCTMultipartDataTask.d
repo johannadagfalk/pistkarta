@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

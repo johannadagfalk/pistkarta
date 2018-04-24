@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/ios/Pods/Target\ Support\ Files/yoga/yoga-dummy.m \
-  /Users/Johanna/RN/prod/MapExample/ios/Pods/Target\ Support\ Files/yoga/yoga-prefix.pch
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/Pods/Target\ Support\ Files/yoga/yoga-dummy.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/Pods/Target\ Support\ Files/yoga/yoga-prefix.pch

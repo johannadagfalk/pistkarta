@@ -38,11 +38,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		RVxHvuEEulxXMaZOTsLRdGUIeoQ=
+		mhinVyE3yq4XhJNsOp4zi+Jevqo=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		F/ATnx2ayhPN16P4kU1HU54+CB0=
+		Pc35J64od1mbjMQyCfZFHfuH3iU=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -801,7 +801,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n4QpIWStKwNvXII7gB2MUbLa2zA=
+		62xzXeCz++44jrI8tVqfsPGnL5U=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -825,7 +825,7 @@
 		</data>
 		<key>PlugIns/MapExampleTests.xctest.dSYM/Contents/Resources/DWARF/MapExampleTests</key>
 		<data>
-		yMh1/PrTrEvg4jwOso5431Y6MFg=
+		9BF2m0kwPF9ICii1wn1l1U/tteU=
 		</data>
 		<key>PlugIns/MapExampleTests.xctest/Info.plist</key>
 		<data>
@@ -833,7 +833,7 @@
 		</data>
 		<key>PlugIns/MapExampleTests.xctest/MapExampleTests</key>
 		<data>
-		yQud1WfqPe3MF18cjSZjlpILIkU=
+		Kyc26MQgh+06vDqufhJeSVBq3kE=
 		</data>
 		<key>PlugIns/MapExampleTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -954,22 +954,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RVxHvuEEulxXMaZOTsLRdGUIeoQ=
+			mhinVyE3yq4XhJNsOp4zi+Jevqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ToZGKrPWcVYFxYnwSGwvVrpk0sXhE31dUFNJlg91J9g=
+			Q4jF3B0OO/0uAcZgnmDRDitSEqiGZSLxwv5+0a5B1no=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F/ATnx2ayhPN16P4kU1HU54+CB0=
+			Pc35J64od1mbjMQyCfZFHfuH3iU=
 			</data>
 			<key>hash2</key>
 			<data>
-			SNCqTZM3X27hrpNmDg/EayGKGDn3bXYmWNqIoNEPLxw=
+			QbehkR28+xgQwTCBtg/iPIdUMTwPkDUSntuJBX3aPZw=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -2544,11 +2544,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yMh1/PrTrEvg4jwOso5431Y6MFg=
+			9BF2m0kwPF9ICii1wn1l1U/tteU=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Yc4HyqJDoS3TBfH97a884P3bY3H05jWYVAVejFfUvM=
+			EJiznwgFMuBhDaEy1FGnYnmprOkY3fvDAL45oJCbubs=
 			</data>
 		</dict>
 		<key>PlugIns/MapExampleTests.xctest/Info.plist</key>
@@ -2566,11 +2566,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yQud1WfqPe3MF18cjSZjlpILIkU=
+			Kyc26MQgh+06vDqufhJeSVBq3kE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CXxTuROfWcjL0LhRahmMHXHAlaR7d0WtLHF7vS1N8Yo=
+			hNGS276A+tp5RY5yoxtgkF/JFjv1JF2kStrGaf9kM4E=
 			</data>
 		</dict>
 		<key>PlugIns/MapExampleTests.xctest/_CodeSignature/CodeResources</key>

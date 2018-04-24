@@ -1,16 +1,16 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/ios/AirGoogleMaps/AIRGoogleMapCallout.m \
-  /Users/Johanna/RN/prod/MapExample/ios/AirGoogleMaps/AIRGoogleMapCallout.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/AirGoogleMaps/AIRGoogleMapCallout.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/AirGoogleMaps/AIRGoogleMapCallout.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

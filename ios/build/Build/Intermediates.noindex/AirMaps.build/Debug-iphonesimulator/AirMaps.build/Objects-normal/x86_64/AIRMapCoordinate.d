@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h

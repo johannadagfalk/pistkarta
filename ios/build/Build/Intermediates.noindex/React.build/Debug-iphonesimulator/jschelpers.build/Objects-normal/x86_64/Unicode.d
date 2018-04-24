@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

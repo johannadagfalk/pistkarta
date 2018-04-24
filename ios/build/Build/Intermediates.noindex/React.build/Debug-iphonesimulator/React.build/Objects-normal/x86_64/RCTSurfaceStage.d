@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTDefines.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTDefines.h

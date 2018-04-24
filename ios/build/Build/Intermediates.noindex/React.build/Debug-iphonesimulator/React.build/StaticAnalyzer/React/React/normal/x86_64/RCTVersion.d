@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTVersion.m \
+  /Users/ellenkyhle/Desktop/Kandidatarbete/pistkarta/node_modules/react-native/React/Base/RCTVersion.h

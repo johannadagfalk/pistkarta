@@ -1,0 +1,20 @@
+[
+    {"id": 0,
+        "title": "Tillgänglighetsarenan",
+        "description": "Välkommen till Tillgänglighetsarenan i Almedalen måndag den 4 juli! Under en hel dag kommer vi ägna oss åt att diskutera hur vi skapar ett samhälle som är tillgängligt för alla. Tillgänglighetsarenan kommer att äga rum kl 8-16 i centrala Visby, trädgården vid S:ta Katarina, och avslutas med ett mingel kl. 16-19. Under dagen kommer sex seminarier att hållas med olika teman kopplade till tillgänglighet. Se program för dagen här. Föranmälan krävs för att delta i minglet kl. 16.00-19.00. Anmäl dig senast den 30 juni via epost till charlotte.teglgaard@tebab.com Bakom arenan står följande organisationer: SPF Seniorerna, DHR, Parasport Sverige, Hissförbundet och Centre for Ageing and Supportive Environments (CASE) vid Lunds Universitet." 
+    },
+
+
+        {"id": 1,
+        "title": "Almedalen",
+        "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+        },
+        {"id": 2,
+        "title": "Schema",
+        "description": "Välkommen till Tillgänglighetsarenan i Almedalen måndag den 4 juli! Under en hel dag kommer vi ägna oss åt att diskutera hur vi skapar ett samhälle som är tillgängligt för alla. Tillgänglighetsarenan kommer att äga rum kl 8-16 i centrala Visby, trädgården vid S:ta Katarina, och avslutas med ett mingel kl. 16-19. Under dagen kommer sex seminarier att hållas med olika teman kopplade till tillgänglighet. Se program för dagen här. Föranmälan krävs för att delta i minglet kl. 16.00-19.00. Anmäl dig senast den 30 juni via epost till charlotte.teglgaard@tebab.com Bakom arenan står följande organisationer: SPF Seniorerna, DHR, Parasport Sverige, Hissförbundet och Centre for Ageing and Supportive Environments (CASE) vid Lunds Universitet." 
+    },
+        {"id": 3,
+        "title": "Om pistkartan",
+        "description": "React-Redux is the official set of bindings between the React and Redux libraries. With this library you can keep your views and data in sync."
+        }
+]

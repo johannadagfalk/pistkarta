@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCircleManager.m \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCircleManager.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert+CoreLocation.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCircle.h \
+  /Users/Johanna/RN/prod/MapExample/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h

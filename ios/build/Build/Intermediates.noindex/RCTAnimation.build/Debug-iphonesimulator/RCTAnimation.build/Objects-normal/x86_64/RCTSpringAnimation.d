@@ -1,19 +1,4 @@
 dependencies: \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/Johanna/RN/prod/MapExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/Johanna/RN/prod/MapExample/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/Johanna/RN/pistkarta/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h

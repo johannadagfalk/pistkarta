@@ -6,8 +6,11 @@ import { Actions } from 'react-native-router-flux';
 export default class MapHeader extends Component {
     render() {
         return (
-            <Header style={{ backgroundColor: '#4A90E2' }}>
+            <Header style={{ backgroundColor: '#008ccf' }}>
                 <Left>
+                <Button transparent onPress={Actions.information}>
+                        <Icon name='information-circle' style={{ color: "white" }}/>
+                    </Button>
                 </Left>
                 <Body >
                     <Title style={{ color: "white" }} >PISTKARTA</Title>
@@ -15,10 +18,10 @@ export default class MapHeader extends Component {
                 </Body>
                 <Right>
                 <Button transparent onPress={Actions.feedback}>
-                        <Icon name='at' style={{ color: "white" }}/>
+                        <Icon name='text' style={{ color: "white" }}/>
                     </Button>
-                    <Button transparent onPress={Actions.settings}>
-                        <Icon name='settings' style={{ color: "white" }} />
+                    <Button transparent onPress={Actions.calendar}>
+                        <Icon name='calendar' style={{ color: "white" }} />
                     </Button>
                 </Right>
             </Header>
